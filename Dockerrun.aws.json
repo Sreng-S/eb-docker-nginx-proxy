@@ -4,7 +4,7 @@
     {
       "name": "php-app",
       "host": {
-        "sourcePath": "/var/app/current/php-app/eb-laravel/public"
+        "sourcePath": "/var/app/current/php-app/eb-laravel"
       }
     },
     {
